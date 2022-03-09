@@ -1,0 +1,12 @@
+{
+  "name": "War_in_Ukraine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "render html":"pug --pretty --watch index.pug"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
